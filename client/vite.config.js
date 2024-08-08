@@ -20,7 +20,7 @@ export default defineConfig(({ mode }) => {
     },
     build: {
       rollupOptions: {
-        external: [] // Add your external dependencies here if any
+        external: ['react-spring'] // Externalize react-spring
       }
     }
   };

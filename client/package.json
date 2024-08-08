@@ -34,7 +34,8 @@
     "recharts": "^2.12.7",
     "redux-persist": "^6.0.0",
     "swiper": "^11.0.5",
-    "timeago.js": "^4.0.2"
+    "timeago.js": "^4.0.2",
+    "travel-and-tourism-management-system": "file:.."
   },
   "devDependencies": {
     "@types/react": "^18.2.43",

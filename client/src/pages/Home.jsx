@@ -6,7 +6,7 @@ import PackageCard from "./PackageCard";
 import { useNavigate } from "react-router";
 import homeVideo from "../assets/vedios/home.mp4";
 import ChatIcon from "./ChatIcon";
-import gokarnaImage from '../assets/images/gokarna.jpg';
+import gokarnaImage from '../assets/images/Gokarna.jpg';
 import coorgImage from '../assets/images/coorg.jpeg';
 import AgumbeImage from '../assets/images/Agumbe.jpg';
 import { Link } from "react-router-dom";
